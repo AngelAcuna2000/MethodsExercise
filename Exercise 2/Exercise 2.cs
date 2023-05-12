@@ -4,6 +4,8 @@ namespace MethodsExercise
 {
     class Program
     {
+
+        //Addition method using params keyword to support a range of arguments
         public static int Add(params int[] values)
         {
             int sum = 0;
@@ -13,6 +15,8 @@ namespace MethodsExercise
             }
             return sum;
         }
+
+        //Subtraction method using params keyword to support a range of arguments
         public static int Subtract(params int[] values)
         {
             int difference = values[0];
@@ -23,6 +27,7 @@ namespace MethodsExercise
             return difference;
         }
 
+        //Multiplication method using params keyword to support a range of arguments
         public static int Multiply(params int[] values)
         {
             int product = 1;
@@ -33,6 +38,7 @@ namespace MethodsExercise
             return product;
         }
 
+        //Division method using params keyword to support a range of arguments
         public static int Divide(params int[] values)
         {
             int quotient = values[0];
@@ -43,6 +49,8 @@ namespace MethodsExercise
             return quotient;
         }
 
+        //Modulus method returns the remainder of a division problem. Params keyword is used in this method
+        //to support a range of arguments
         public static int Modulus(params int[] values)
         {
             int remainder = values[0];
@@ -53,6 +61,7 @@ namespace MethodsExercise
             return remainder;
         }
 
+        // Calls the math operations methods in the Main() method
         static void Main(string[] args)
         {
             Add(10, 20, 30);
