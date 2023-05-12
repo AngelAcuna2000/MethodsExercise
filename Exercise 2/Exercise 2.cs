@@ -13,6 +13,7 @@ namespace MethodsExercise
             {
                 sum += value;
             }
+            Console.WriteLine(sum);
             return sum;
         }
 
@@ -24,6 +25,7 @@ namespace MethodsExercise
             {
                 difference -= values[i];
             }
+            Console.WriteLine(difference);
             return difference;
         }
 
@@ -35,6 +37,7 @@ namespace MethodsExercise
             {
                 product *= value;
             }
+            Console.WriteLine(product);
             return product;
         }
 
@@ -46,6 +49,7 @@ namespace MethodsExercise
             {
                 quotient /= values[i];
             }
+            Console.WriteLine(quotient);
             return quotient;
         }
 
@@ -58,6 +62,7 @@ namespace MethodsExercise
             {
                 remainder %= values[i];
             }
+            Console.WriteLine(remainder);
             return remainder;
         }
 

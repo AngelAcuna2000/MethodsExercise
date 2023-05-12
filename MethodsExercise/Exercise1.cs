@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 using System.Xml.Linq;
 
 namespace MethodsExercise
@@ -17,6 +18,7 @@ namespace MethodsExercise
         {
             Console.WriteLine("What is your name?");
             var name = Console.ReadLine();
+            Program.name = name;
         }
 
         // Asks for the user's favorite animal and stores the input in the "animal" variable
@@ -24,6 +26,7 @@ namespace MethodsExercise
         {
             Console.WriteLine("What is your favorite animal?");
             var animal = Console.ReadLine();
+            Program.animal = animal;
         }
 
         // Asks for the user's favorite color and stores the input in the "color" variable
@@ -31,6 +34,7 @@ namespace MethodsExercise
         {
             Console.WriteLine("What is your favorite color?");
             var color = Console.ReadLine();
+            Program.color = color;
         }
 
         // Creates story from user input
