@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {}
+    "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\Exercise 2\\Exercise 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {
+    "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\Exercise 2\\Exercise 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
-        "projectName": "MethodsExercise",
-        "projectPath": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\Exercise 2\\Exercise 2.csproj",
+        "projectName": "Exercise 2",
+        "projectPath": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\Exercise 2\\Exercise 2.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\MethodsExercise\\Exercise 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
